@@ -1,4 +1,4 @@
-# WeedJob
+# BlackWeedJob
 Petit job WeedShop avec mapping 
 https://discord.gg/7ucBP94nGe
 
